@@ -35,7 +35,7 @@ test5/                # Project root
 
 ## Build Instructions
 
-Open a terminal in the project root (`2024321_2024663_2024119/`) and run:
+Open a terminal in the project root (`2024321_2024663_2024119\Source Code/`) and run:
 
 ```powershell
 # Single-line (no backslashes)
